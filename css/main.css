@@ -420,12 +420,12 @@ img {
 @media only screen and (min-width: 320px){
 
 #logo {
-	width: 21%;
-	margin-left: 45px;
+	width: 12%;
+	margin-left: 40px;
 }
 
 #flex li {
-	font-size: 30px;
+	font-size: 27px;
 	color: white;
 	margin-left: 45px;
 	text-align: center;
@@ -443,8 +443,8 @@ img {
 #flex {
 	display: flex;
     flex-wrap: wrap;
-    margin-left: 200px;
-    margin-top: 70px;
+    margin-left: 400px;
+    margin-top: 40px;
 }
 
 #mainphoto {
@@ -458,7 +458,7 @@ img {
 	width: 355px;
 	font-family: 'bpg_nino_mtavruli_bold' ;
 	margin-top: 50px;
-	margin-left: 370px; 
+	margin-left: 360px; 
 }
 
 hr {
@@ -466,9 +466,9 @@ hr {
 }
 
 #photo {
-	width: 100%;
+	width: 70%;
 	margin-left: 145px;
-	margin-top: 50px;
+	margin-top: 35px;
 }
 
 #flex3 h3 {
