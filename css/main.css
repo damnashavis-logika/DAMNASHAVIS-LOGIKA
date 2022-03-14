@@ -412,6 +412,35 @@ img {
 	margin-top: 4px;
 }
 
+#about-section-2 {
+	background-color: #AF0909;
+	padding: 25px 46%;
+}
+
+#about-section-2 h3 {
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	font-family: 'bpg_nino_mtavruli_bold';
+	margin-left: -320px;
+	margin-top: 10px;
+	width: 710px;
+}
+
+#about-section-2 input {
+	background-color: white;
+	font-size: 20px;
+	color: black;
+	padding: 20px 30px;
+	border: none;
+	margin-left: -150px;
+	margin-top: 40px;
+	cursor: pointer;
+	font-family: 'bpg_nino_mtavruli_bold' ;
+}
+
+
+
 
 
 
@@ -964,7 +993,7 @@ hr {
 }
 
 #about-section-2 h3 {
-	font-size: 36px;
+	font-size: 30px;
 	color: white;
 	text-align: center;
 	font-family: 'bpg_nino_mtavruli_bold';
@@ -1093,7 +1122,7 @@ hr {
 }
 
 hr {
-	width: 124%;
+	width: 100%;
 }
 
 #photo {
@@ -1466,6 +1495,30 @@ hr {
 	margin-bottom: 50px;
 	margin-left: 300px;
 }
+
+#about-section-2 {
+	background-color: #AF0909;
+	padding: 25px 46%;
+}
+
+#about-section-2 h3 {
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	font-family: 'bpg_nino_mtavruli_bold';
+	margin-left: -320px;
+	margin-top: 10px;
+	width: 710px;
+}
+
+
+
+
+
+
+
+
+
 
 }
 
